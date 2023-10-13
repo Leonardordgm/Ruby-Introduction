@@ -1,3 +1,4 @@
+# if, elsif e else
 
 aula = false
 puts "Que dia é hoje?"
